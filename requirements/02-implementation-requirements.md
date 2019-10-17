@@ -1,33 +1,27 @@
-# Design requirements
+# Implementation requirements
 
 These determine the more detailed features necessary to implement design requirements.
 
 -   **Design requirement:** user can create account
     -   User clicks through to register page
-        -   link/button on website *OR*
+        -   link/button on website _OR_
         -   link on login page
-    -   User enters information in form *OR*
-    -   User connects to OAuth provider (e.g. Facebook)
+    -   User enters information in form
     -   User confirms and submits information
     -   User can login to and logout of app once account is created
     -   User is automatically logged in upon registration
     -   User is redirected to onboarding process
     -   User receives email from the system to confirm membership
     -   User must visit confirm URL in email within 72 hours or account is suspended
-        -   *Just for email registrations?*
+        -   _Just for email registrations, not OAuth?_
     -   User sees confirmation reminder upon logging in if not confirmed yet
     -   User account is verified upon visiting confirm URL
 -   **Design requirement:** user will be guided through onboarding process
-    -   User will receive brief tour of app
-        -   Explanation for all UI controls
-        -   Educate on how to use app features
-        -   Give recommendations for best practices
-        -   Good onboarding leads to greater user satisfaction and retention
     -   User will be prompted to fill out more profile information
         -   This information will be visible to prospective matches
 -   **Design Requirement:** user will take survey for matching purposes
     -   User fills out survey form
-        -   Answer  questions
+        -   Answer questions
         -   Indicate importance of each question
     -   User will be assigned a score for match comparison
     -   User must answer a minimum number of questions
@@ -42,7 +36,11 @@ These determine the more detailed features necessary to implement design require
     -   Click move on button or swipe left to reject
     -   User can unmatch as needed - matches aren't indelible
     -   Matching or rejecting another user removes them from appearing in carousel view
-    -   Can still view profile directly?
+    -   User can still view profile directly if not blocked
+-   **Design Requirement:** user can block other users if they feel like they're being harassed or otherwise treated inappropriately
+    -   A blocked user cannot see their blocker's profile
+    -   A blocked user cannot send messages to their blocker or interact with them through the app in any other way
+    -   The reverse is also true
 -   **Design Requirement:** user matching with another triggers an automatic message to the other
     -   Message should be customizable
     -   Message is not optional - refusing to send will cancel match
@@ -58,6 +56,20 @@ These determine the more detailed features necessary to implement design require
     -   Create invitation for match inside app with relevant information
     -   Option to invite multiple matches?
     -   Send invite message(s)
--   **Design Requirement:** user can choose a time and place for meetup
+
+### Stretch goal ideas
+
+-   User can access full app functionality even without internet connection _except_ ability to view users not already cached locally (Progressive Web App)
+-   User can create account and login with OAuth provider
+    -   User connects to OAuth provider (e.g. Facebook)
+-   User is shown a tour of the app after registering (extended onboarding experience)
+    -   User will receive brief tour of app
+    -   Explanation for all UI controls
+    -   Educate on how to use app features
+    -   Give recommendations for best practices
+    -   Good onboarding leads to greater user satisfaction and retention
+-   User can choose a time and place for meetup
     -   Interact with a map or directory API that returns location data
     -   Can integrate with calendar app to schedule, send calendar invite to match
+-   User can choose to only see local matches with geolocation functionalities
+-   User can receive activity suggestions for new friends based on their mutual interests

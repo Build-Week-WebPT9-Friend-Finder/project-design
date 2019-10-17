@@ -13,12 +13,15 @@ These are high-level requirements to translate into more low-level, functional r
 -   User can match with/move on from other users
 -   Matching with another user will send notification to them
 -   User can see who's requested them and either reciprocate or reject
+-   User can block other users if they feel like they're being harassed or otherwise treated inappropriately
 -   User can chat with mutual matches
 -   User can schedule a meetup with match
 -   User can choose a time and place for meetup
 
 ## Stretch
 
+-   User can create an account and login with an OAuth provider
+-   Expanded onboarding process that includes product tour
 -   User can specify matches should be restricted by geolocation
 -   User can receive suggested activities based on interest and what's available locally
 
