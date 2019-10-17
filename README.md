@@ -16,5 +16,5 @@ Stretch: Make it geolocated so that I can only match with people in my area. Bui
 
 To translate product description into actionable functionalities
 
-- [Design requirements](01-design-requirements.md)
-- [Implementation requirements](02-implementation-requirements.md)
+- [Design requirements](requirements/01-design-requirements.md)
+- [Implementation requirements](requirements/02-implementation-requirements.md)
