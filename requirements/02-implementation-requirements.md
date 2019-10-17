@@ -53,7 +53,6 @@ These determine the more detailed features necessary to implement design require
     -   Can initiate meetup invitation from message view
 -   **Design Requirement:** user can schedule a meetup with match
     -   Create invitation for match inside app with relevant information
-    -   Option to invite multiple matches?
     -   Send invite message(s)
 
 ### Stretch goal ideas
@@ -67,6 +66,7 @@ These determine the more detailed features necessary to implement design require
     -   Educate on how to use app features
     -   Give recommendations for best practices
     -   Good onboarding leads to greater user satisfaction and retention
+-   User can invite multiple matches for meetup
 -   User can choose a time and place for meetup
     -   Interact with a map or directory API that returns location data
     -   Can integrate with calendar app to schedule, send calendar invite to match
