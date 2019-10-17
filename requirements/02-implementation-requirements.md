@@ -4,7 +4,7 @@ These determine the more detailed features necessary to implement design require
 
 -   **Design requirement:** user can create account
     -   User clicks through to register page
-        -   link/button on website _OR_
+        -   link/button on website
         -   link on login page
     -   User enters information in form
     -   User confirms and submits information
