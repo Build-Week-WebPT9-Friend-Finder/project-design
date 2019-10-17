@@ -13,7 +13,6 @@ These determine the more detailed features necessary to implement design require
     -   User is redirected to onboarding process
     -   User receives email from the system to confirm membership
     -   User must visit confirm URL in email within 72 hours or account is suspended
-        -   _Just for email registrations, not OAuth?_
     -   User sees confirmation reminder upon logging in if not confirmed yet
     -   User account is verified upon visiting confirm URL
 -   **Design requirement:** user will be guided through onboarding process
