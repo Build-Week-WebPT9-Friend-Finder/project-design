@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" focusable="true" height="1346.0" id="workspace" preserveAspectRatio="xMinYMin" viewBox="-1010.0 -670.0 2025.0 1346.0" width="2025.0">
+<path d="M-533,543 C-542,543 -553,492 -562,492" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<rect fill="#CC0033" fill-opacity="0.4" height="43" rx="0" ry="0" stroke="#FF9933" stroke-opacity="0.4" stroke-width="1px" visibility="hidden" width="131" x="-65" y="-21"/>
+<path d="M-621,497 C-591.6666666666666,512.3333333333334 -562.3333333333334,527.6666666666666 -533,543" fill-opacity="0.4" stroke="#CC0033" stroke-opacity="0.4" stroke-width="1px" style="fill:none " visibility="hidden"/>
+<path d="M-213,-601 C-142,-400.66666666666663 -71,-200.33333333333334 0,0" fill-opacity="0.4" stroke="#CC0033" stroke-opacity="0.4" stroke-width="1px" style="fill:none " visibility="hidden"/>
+<path d="M-533,543 C-542,543 -553,620 -562,620" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-338,338 C-347,338 -358,542 -367,542" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-608,101 C-617,101 -628,127 -637,127" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-608,101 C-617,101 -628,100 -637,100" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-608,101 C-617,101 -628,73 -637,73" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-338,338 C-347,338 -358,100 -367,100" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-338,338 C-347,338 -358,400 -367,400" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-338,338 C-347,338 -358,336 -367,336" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-509,232 C-518,232 -529,284 -538,284" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-509,232 C-518,232 -529,232 -538,232" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-509,232 C-518,232 -529,206 -538,206" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-509,232 C-518,232 -529,180 -538,180" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-509,232 C-518,232 -529,154 -538,154" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-338,338 C-347,338 -358,232 -367,232" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-214,-143 C-223,-143 -234,-200 -243,-200" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C-31,0 -64,338 -95,338 -64,341 -31,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M-487,401 C-496,401 -507,440 -516,440" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-487,401 C-496,401 -507,414 -516,414" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-487,401 C-496,401 -507,388 -516,388" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-487,401 C-496,401 -507,362 -516,362" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-214,-143 C-223,-143 -234,47 -243,47" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-214,-143 C-223,-143 -234,21 -243,21" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-430,-200 C-439,-200 -450,-187 -459,-187" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-430,-200 C-439,-200 -450,-213 -459,-213" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-214,-143 C-223,-143 -234,-5 -243,-5" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-467,-96 C-476,-96 -487,-31 -496,-31" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-467,-96 C-476,-96 -487,-57 -496,-57" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-628,-122 C-637,-122 -648,-83 -657,-83" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-628,-122 C-637,-122 -648,-109 -657,-109" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-628,-122 C-637,-122 -648,-135 -657,-135" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-628,-122 C-637,-122 -648,-161 -657,-161" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-467,-96 C-476,-96 -487,-122 -496,-122" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-214,-143 C-223,-143 -234,-96 -243,-96" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-476,-252 C-485,-252 -496,-239 -505,-239" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-476,-252 C-485,-252 -496,-265 -505,-265" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-214,-143 C-223,-143 -234,-252 -243,-252" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-559,-304 C-568,-304 -579,-291 -588,-291" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-559,-304 C-568,-304 -579,-317 -588,-317" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-214,-143 C-223,-143 -234,-304 -243,-304" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C-31,0 -64,-143 -95,-143 -64,-140 -31,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M334,184 C343,184 354,270 363,270" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M334,184 C343,184 354,244 363,244" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M334,184 C343,184 354,218 363,218" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M574,179 C583,179 593,192 602,192" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M574,179 C583,179 593,166 602,166" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M334,184 C343,184 354,179 363,179" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M334,184 C343,184 354,140 363,140" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M334,184 C343,184 354,114 363,114" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C31,0 64,184 95,184 64,187 31,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M-533,543 C-542,543 -553,596 -562,596" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-533,543 C-542,543 -553,570 -562,570" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-533,543 C-542,543 -553,544 -562,544" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-533,543 C-542,543 -553,518 -562,518" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-533,543 C-542,543 -553,466 -562,466" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M288,54 C297,54 307,88 316,88" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M288,54 C297,54 308,62 317,62" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M288,54 C297,54 308,36 317,36" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C31,0 64,54 95,54 64,57 31,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M-367,-377 C-376,-377 -387,-343 -396,-343" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-367,-377 C-376,-377 -387,-369 -396,-369" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-367,-377 C-376,-377 -387,-395 -396,-395" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C-31,0 -64,-377 -95,-377 -64,-374 -31,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M-743,284 C-752,284 -763,310 -772,310" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-743,284 C-752,284 -763,284 -772,284" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-743,284 C-752,284 -763,258 -772,258" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C31,0 64,0 95,0 64,3 31,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M-479,-469 C-488,-469 -499,-422 -508,-422" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-479,-469 C-488,-469 -499,-448 -508,-448" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-479,-469 C-488,-469 -499,-474 -508,-474" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-479,-469 C-488,-469 -499,-500 -508,-500" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C-31,0 -64,-469 -95,-469 -64,-466 -31,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M274,-53 C283,-53 293,-19 302,-19" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M543,-58 C552,-58 563,-45 572,-45" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M543,-58 C552,-58 562,-71 571,-71" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M274,-53 C283,-53 293,-58 302,-58" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C31,0 64,-53 95,-53 64,-50 31,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M-380,-573 C-389,-573 -400,-526 -409,-526" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-380,-573 C-389,-573 -400,-552 -409,-552" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-380,-573 C-389,-573 -400,-578 -409,-578" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M-380,-573 C-389,-573 -400,-604 -409,-604" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C-31,0 -64,-573 -95,-573 -64,-570 -31,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M232,-183 C241,-183 251,-97 260,-97" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M232,-183 C241,-183 252,-123 261,-123" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M232,-183 C241,-183 251,-149 260,-149" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M232,-183 C241,-183 251,-175 260,-175" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M232,-183 C241,-183 252,-201 261,-201" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M417,-240 C426,-240 437,-227 446,-227" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M417,-240 C426,-240 436,-253 445,-253" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M232,-183 C241,-183 251,-240 260,-240" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C31,0 64,-183 95,-183 64,-180 31,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-63,-19) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="45" rx="6.75" ry="6.75" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: default;" width="131" x="-2" y="-3"/>
+<rect fill="rgb(80,157,192)" height="39" rx="5.85" ry="5.85" stroke="rgb(57,113,177)" stroke-width="2px" style="cursor: default;" width="127" x="0" y="0"/>
+<text fill="#ffffff" font-family="verdana" font-size="13.4375" font-style="normal" font-weight="bold" style="cursor: default;" visibility="visible" x="11" y="11">
+<tspan dy="1em" x="11">Friend Finder</tspan>
+</text>
+<g focusable="true" height="17" preserveAspectRatio="none" transform="translate(0,11) scale(0,0.17)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(93,-192) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="24" rx="3.5999999999999996" ry="3.5999999999999996" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="141" x="-2" y="-3"/>
+<rect fill="rgb(255, 229, 153)" height="18" rx="2.6999999999999997" ry="2.6999999999999997" stroke="rgb(241, 194, 50)" stroke-width="2px" style="cursor: move;" width="137" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can create account</tspan>
+</text>
+<g focusable="true" height="12" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.12)" width="0"/>
+<ellipse cx="140" cy="9" fill="rgb(255, 229, 153)" height="6" rx="3" ry="3" stroke="rgb(241, 194, 50)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(260,-256) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="159" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="155" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User clicks through to register page</tspan>
+</text>
+<ellipse cx="158" cy="16" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(445,-269) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="107" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="103" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Link/button on website</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(446,-243) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="118" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="114" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Link/button on login page</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(261,-217) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="150" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="146" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User enters information into form</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(260,-191) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="171" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="167" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User confirms and submits information</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(260,-165) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="255" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="251" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can login to and logout of app once account is created</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(261,-139) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="210" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="206" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User is automatically logged in upon registration</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(260,-113) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="179" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="175" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User is redirected to onboarding process</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-607,83) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="244" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="240" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User receives email from system to confirm membership</tspan>
+</text>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.11)" width="0"/>
+<ellipse cx="-3" cy="17" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-927,56) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="294" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="290" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User must visit confirm URL within 72 hours or account is suspended</tspan>
+</text>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.11)" width="0"/>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-928,83) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="295" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="291" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User sees confirmation reminder upon logging in if not confirmed yet</tspan>
+</text>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.11)" width="0"/>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-849,110) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="23" rx="3.4499999999999997" ry="3.4499999999999997" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="216" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="212" y1="17" y2="17"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User account is verified upon visiting confirm URL</tspan>
+</text>
+<g focusable="true" height="11" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.11)" width="0"/>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-379,-582) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="24" rx="3.5999999999999996" ry="3.5999999999999996" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="290" x="-2" y="-3"/>
+<rect fill="rgb(255, 229, 153)" height="18" rx="2.6999999999999997" ry="2.6999999999999997" stroke="rgb(241, 194, 50)" stroke-width="2px" style="cursor: move;" width="286" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User will automatically send message to new match</tspan>
+</text>
+<g focusable="true" height="12" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.12)" width="0"/>
+<ellipse cx="-3" cy="9" fill="rgb(255, 229, 153)" height="6" rx="3" ry="3" stroke="rgb(241, 194, 50)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-551,-620) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="146" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="142" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Message should be customizable</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-499,-594) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="94" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="90" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Message is required</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-558,-568) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="153" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="149" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Refusing to send will cancel match</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-701,-542) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="296" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="292" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Message will be visible in both users' inboxes as new message thread</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(93,-62) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="24" rx="3.5999999999999996" ry="3.5999999999999996" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="183" x="-2" y="-3"/>
+<rect fill="rgb(255, 229, 153)" height="18" rx="2.6999999999999997" ry="2.6999999999999997" stroke="rgb(241, 194, 50)" stroke-width="2px" style="cursor: move;" width="179" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User will go through onboarding</tspan>
+</text>
+<g focusable="true" height="12" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.12)" width="0"/>
+<ellipse cx="182" cy="9" fill="rgb(255, 229, 153)" height="6" rx="3" ry="3" stroke="rgb(241, 194, 50)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(302,-74) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="243" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="239" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User will be prompted to fill out more profile information</tspan>
+</text>
+<ellipse cx="242" cy="16" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(571,-87) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="179" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="175" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Information will be visible to other users</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(572,-61) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="234" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="230" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Information is to help users make a matching decision</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(302,-35) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="189" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="185" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User will then be taken to matching survey</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-478,-478) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="24" rx="3.5999999999999996" ry="3.5999999999999996" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="389" x="-2" y="-3"/>
+<rect fill="rgb(255, 229, 153)" height="18" rx="2.6999999999999997" ry="2.6999999999999997" stroke="rgb(241, 194, 50)" stroke-width="2px" style="cursor: move;" width="385" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can view other users they've matched with in special profile area</tspan>
+</text>
+<g focusable="true" height="12" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.12)" width="0"/>
+<ellipse cx="-3" cy="9" fill="rgb(255, 229, 153)" height="6" rx="3" ry="3" stroke="rgb(241, 194, 50)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-771,-516) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="267" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="263" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Profile tab for matches who haven't matched or rejected them</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-642,-490) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="138" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="134" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Profile tab for mutual matches</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-813,-464) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="309" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="305" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Profile tab for others who have matched User but User has not yet acted</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-765,-438) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="261" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="257" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Option to reciprocate or reject users who have matched user</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(93,-9) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="25" rx="3.75" ry="3.75" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="251" x="-2" y="-3"/>
+<rect fill="rgb(255, 229, 153)" height="19" rx="2.85" ry="2.85" stroke="rgb(241, 194, 50)" stroke-width="2px" style="cursor: move;" width="247" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User will take matching survey (list hobbies)</tspan>
+</text>
+<g focusable="true" height="13" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.13)" width="0"/>
+<ellipse cx="175" cy="18" fill="rgb(255, 229, 153)" height="6" rx="3" ry="3" stroke="rgb(241, 194, 50)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-621,164) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="87" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="83" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Answer questions</tspan>
+</text>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-729,138) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="195" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="191" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Indicate importance of each survey question</tspan>
+</text>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-764,190) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="230" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="226" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User will have score computed for match comparison</tspan>
+</text>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-757,216) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="223" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="219" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User must answer a minimum number of questions</tspan>
+</text>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-742,268) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="208" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="204" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User will have option to answer more questions</tspan>
+</text>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+<ellipse cx="-3" cy="16" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-863,242) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="95" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="91" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Can do immediately</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-832,268) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="64" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="60" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Can do later</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-903,294) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="135" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="131" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Maybe this should be stretch?</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-366,-386) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="24" rx="3.5999999999999996" ry="3.5999999999999996" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="277" x="-2" y="-3"/>
+<rect fill="rgb(255, 229, 153)" height="18" rx="2.6999999999999997" ry="2.6999999999999997" stroke="rgb(241, 194, 50)" stroke-width="2px" style="cursor: move;" width="273" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can chat/send messages to mutual matches</tspan>
+</text>
+<g focusable="true" height="12" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.12)" width="0"/>
+<ellipse cx="-3" cy="9" fill="rgb(255, 229, 153)" height="6" rx="3" ry="3" stroke="rgb(241, 194, 50)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-677,-411) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="285" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="281" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Automated message upon matching starts new inbox conversation</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-589,-385) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="197" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="193" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Conversation can continue as long as needed</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-622,-359) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="230" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="226" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Conversation can have as many messages as needed</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-794,476) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="236" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="232" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can initiate meetup invitation from message view</tspan>
+</text>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(93,44) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="25" rx="3.75" ry="3.75" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="197" x="-2" y="-3"/>
+<rect fill="rgb(255, 229, 153)" height="19" rx="2.85" ry="2.85" stroke="rgb(241, 194, 50)" stroke-width="2px" style="cursor: move;" width="193" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can view other users' profiles</tspan>
+</text>
+<g focusable="true" height="13" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.13)" width="0"/>
+<ellipse cx="196" cy="9.5" fill="rgb(255, 229, 153)" height="6" rx="3" ry="3" stroke="rgb(241, 194, 50)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(317,20) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="274" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="270" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User will see carousel with other users' pictures and information</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(317,46) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="232" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="228" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User will see hobbies of common interest, if any exist</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(316,72) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="315" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="311" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can also see match information when viewing another profile directly</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-532,527) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="21" rx="3.15" ry="3.15" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="169" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="165" y1="15" y2="15"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can schedule meetup with match</tspan>
+</text>
+<g focusable="true" height="9" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.09)" width="0"/>
+<ellipse cx="-3" cy="15" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-725,450) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="167" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="163" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Create invitation for match inside app</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-808,502) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="250" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="246" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Invitation creation form has fields for relevant information</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-821,528) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="263" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="259" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Upon invitation creation system sends message to other user</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-716,554) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="158" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="154" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Invitation view displays information</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-749,580) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="191" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="187" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Invited user can accept or decline invitation</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(93,175) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="24" rx="3.5999999999999996" ry="3.5999999999999996" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="243" x="-2" y="-3"/>
+<rect fill="rgb(255, 229, 153)" height="18" rx="2.6999999999999997" ry="2.6999999999999997" stroke="rgb(241, 194, 50)" stroke-width="2px" style="cursor: move;" width="239" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can match, reject, or skip other users</tspan>
+</text>
+<g focusable="true" height="12" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.12)" width="0"/>
+<ellipse cx="242" cy="9" fill="rgb(255, 229, 153)" height="6" rx="3" ry="3" stroke="rgb(241, 194, 50)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(363,98) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="224" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="220" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can click match button or swipe right to match</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(363,124) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="190" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="186" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Click move on button or swipe left to reject</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(363,163) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="214" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="210" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Skip user by clicking skip button or swiping down</tspan>
+</text>
+<ellipse cx="213" cy="16" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(602,150) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="169" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="165" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Skipped user can reappear in carousel</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(602,176) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="363" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="359" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Skipped user won't appear until after the current batch of carousel users is exhausted</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(363,202) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="132" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="128" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can unmatch as needed</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(363,228) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="296" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="292" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Matching or rejecting another user removes them from carousel view</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(363,254) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="262" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="258" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can still directly view rejected user profile if not blocked</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-213,-152) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="24" rx="3.5999999999999996" ry="3.5999999999999996" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="124" x="-2" y="-3"/>
+<rect fill="rgb(213, 166, 189)" height="18" rx="0" ry="0" stroke="rgb(166, 77, 121)" stroke-width="2px" style="cursor: move;" width="120" x="0" y="0"/>
+<text fill="rgb(254, 255, 255)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Stretch goal features</tspan>
+</text>
+<g focusable="true" height="12" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.12)" width="0"/>
+<ellipse cx="-3" cy="9" fill="rgb(213, 166, 189)" height="6" rx="3" ry="3" stroke="rgb(166, 77, 121)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-854,605) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="21" rx="3.15" ry="3.15" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="296" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="292" y1="15" y2="15"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can choose time and place for meetup using in-app functionality</tspan>
+</text>
+<g focusable="true" height="9" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.09)" width="0"/>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-558,-320) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="319" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="315" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can access most app functionalities without active internet connection</tspan>
+</text>
+<ellipse cx="-3" cy="16" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-796,-333) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="212" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="208" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Will exclude functionalities that require new data</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-960,-307) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="376" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="372" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Some functionalities, e.g. message sending, will be cued for when connection is detected</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-475,-268) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="236" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="232" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can create account and login with OAuth provider</tspan>
+</text>
+<ellipse cx="-3" cy="16" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-638,-281) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="137" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="133" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User logs in to OAuth provider</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-759,-255) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="258" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="254" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User determines what, if any info from provider will be used</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-466,-112) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="227" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="223" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User has option for extended onboarding experience</tspan>
+</text>
+<ellipse cx="-3" cy="16" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-627,-138) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="135" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="131" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User is given brief tour of app</tspan>
+</text>
+<ellipse cx="-3" cy="16" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-847,-177) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="194" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="190" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Taken to each view and shown how it works</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-788,-151) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="135" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="131" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Explanation for all UI controls</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-814,-125) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="161" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="157" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Education for all major app features</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-831,-99) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="178" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="174" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Demonstration of available help function</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-654,-73) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="162" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="158" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Recommendations for best practices</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-769,-47) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="277" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="273" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Good onboarding leads to greater user satisfaction and retention</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-433,-21) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="194" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="190" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can invite multiple matches for meetup</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-429,-216) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="190" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="186" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can choose time and place for meetup</tspan>
+</text>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+<ellipse cx="-3" cy="16" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-704,-229) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="249" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="245" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Interact with map/directory API that returns location data</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-804,-203) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="349" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="345" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Can integrate with calendar app to schedule, send calendar invite to matched user</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-463,5) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="224" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="220" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can filter available prospects using geolocation</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-633,31) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="394" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="390" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can receive activity suggestions for meetups with new friends based on mutual interests</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-486,385) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="21" rx="3.15" ry="3.15" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="123" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="119" y1="15" y2="15"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User can block other users</tspan>
+</text>
+<g focusable="true" height="9" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.09)" width="0"/>
+<ellipse cx="-3" cy="15" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-691,346) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="179" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="175" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Blocked user cannot see blocker's profile</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-695,372) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="183" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="179" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Blocked cannot send messages to blocker</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-772,398) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="260" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="256" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Blocked cannot interact with blocker in any way through app</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-713,424) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="201" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="197" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Blocker also cannot interact with blocked user</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-337,329) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="24" rx="3.5999999999999996" ry="3.5999999999999996" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="248" x="-2" y="-3"/>
+<rect fill="rgb(234, 153, 153)" height="18" rx="0" ry="0" stroke="rgb(204, 0, 0)" stroke-width="2px" style="cursor: move;" width="244" x="0" y="0"/>
+<text fill="rgb(254, 255, 255)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Originally planned, unsupported by backend</tspan>
+</text>
+<g focusable="true" height="12" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.12)" width="0"/>
+<ellipse cx="-3" cy="9" fill="rgb(234, 153, 153)" height="6" rx="3" ry="3" stroke="rgb(204, 0, 0)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-508,216) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="145" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="141" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Have actual survey for matching</tspan>
+</text>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+<ellipse cx="-3" cy="16" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-521,320) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" style="cursor: move;" width="158" x="-2" y="-3"/>
+<line stroke="#495879" stroke-opacity="1" stroke-width="1px" style="cursor: move;" x1="0" x2="154" y1="16" y2="16"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Calculate match score using survey</tspan>
+</text>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+</g>
+<rect fill="#CC0033" fill-opacity="0.4" height="6" rx="0" ry="0" stroke="#FF9933" stroke-opacity="0.4" stroke-width="1px" visibility="hidden" width="50" x="-261" y="-604"/>
+</svg>
